@@ -7,7 +7,6 @@
             ]
         }
     },
-    "onCreateCommand": "curl -fsSL https://bun.sh/install | bash && bun install nuekit --global",
-	"updateContentCommand": "bun install nuekit --global",
-	"postAttachCommand": "nue"
+    "onCreateCommand": "curl -fsSL https://bun.sh/install | bash && ~/.bun/bin/bun install nuekit --global",
+    "postAttachCommand": "nue"
 }
