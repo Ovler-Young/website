@@ -13,5 +13,6 @@
             ]
         }
     },
-	"postStartCommand": "bun install nuekit --global && nue"
+	"updateContentCommand": "bun install nuekit --global",
+	"postAttachCommand": "nue"
 }
