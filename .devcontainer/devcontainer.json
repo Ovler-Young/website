@@ -1,18 +1,13 @@
 {
-    "name": "Bun",
-    "build": {
-        "dockerfile": "Dockerfile",
-        "args": {
-            "VARIANT": "latest"
-        }
-    },
+    "name": "Nue",
     "customizations": {
         "vscode": {
             "extensions": [
-                "dbaeumer.vscode-eslint"
+                "yaoyuanzhang.nue"
             ]
         }
     },
+    "onCreateCommand": "curl -fsSL https://bun.sh/install | bash && bun install nuekit --global",
 	"updateContentCommand": "bun install nuekit --global",
 	"postAttachCommand": "nue"
 }
