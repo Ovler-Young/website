@@ -1,4 +1,3 @@
-
 globals: ["@global"]
 libs: ["@library"]
 
@@ -7,40 +6,31 @@ native_css_nesting: true
 inline_css: true
 sections: true
 
-title_template: "Emma Bennet / %s"
+title_template: "Chengyu‮ ‬Jin / %s"
 og_image: /img/og_emma.png
-author: Emma Bennet
-favicon: /img/favicon.jpg
-description: Minimalist, designer, and UX developer
+author: Chengyu‮ ‬Jin
+favicon: /img/favicon.png
+description: Programmer, Biology student, and Engineer
 port: 8083
 
 # OG image
-origin: https://simple-blog.nuejs.org
-og: /img/og.jpg
-
+# origin: https://simple-blog.nuejs.org
+# og: /img/og.jpg
 
 navigation:
   header:
-    - Emma Bennet: /
+    - Chengyu Jin: /
     - Contact: /contact/
 
   footer:
-    - © Emma Bennet: /
-
-    - image: /img/twitter.svg
-      url: //x.com/tipiirai
-      alt: Twitter (X) profile
-      size: 22 x 22
+    - © Chengyu Jin: /
 
     - image: /img/github.svg
-      url: //github.com/nuejs/nue/
+      url: //github.com/Ovler-Young
       alt: Github Projects
       size: 22 x 22
 
     - image: /img/linkedin.svg
-      url: //linkedin.com/in/tipiirai
+      url: //www.linkedin.com/in/chengyujin-oliver/
       alt: LinkedIn profile
       size: 22 x 22
-
-
-
