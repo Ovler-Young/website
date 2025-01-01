@@ -25,12 +25,22 @@ navigation:
   footer:
     - © Chengyu Jin: /
 
-    - image: /img/github.svg
+    - image: /img/icons/githubline.svg
       url: //github.com/Ovler-Young
       alt: Github Projects
       size: 22 x 22
 
-    - image: /img/linkedin.svg
+    - image: /img/icons/github.svg
+      url: //github.com/Ovler-Young/websites
+      alt: Github Repo
+      size: 22 x 22
+
+    - image: /img/icons/telegram.svg
+      url: //t.me/ChengyuJin
+      alt: Telegram
+      size: 22 x 22
+
+    - image: /img/icons/linkedin.svg
       url: //www.linkedin.com/in/chengyujin-oliver/
       alt: LinkedIn profile
       size: 22 x 22
