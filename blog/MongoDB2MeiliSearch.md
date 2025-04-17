@@ -10,6 +10,8 @@ tags:
 urlname: MongoDB2MeiliSearch
 categories:
 - Technology
+thumb: /img/diy-1.png
+og: /img/diy-1.png
 ---
 
 使用 meilisync
